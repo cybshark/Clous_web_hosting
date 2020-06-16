@@ -1,4 +1,7 @@
 # Web hosting by using AWS cloud with terraform
+
+![terraform](https://github.com/cybshark/Clous_web_hosting/blob/master/0_VoKJItSlwsZXriPt.png)
+
 ## Introduction:
 **Cloud automation** n is a broad term that refers to the processes and tools an organization uses to reduce the manual efforts associated with provisioning and managing cloud computing workloads. IT teams can apply cloud automation to **private, public and **hybrid cloud environments.
 
